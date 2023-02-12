@@ -1,0 +1,2 @@
+serial:ti_mmwave_rospkg:ti_mmwave_tracker_rospkg
+-DCATKIN_DEVEL_PREFIX=/home/fallon/mmwave_ti_ros/ros_driver/devel -DCMAKE_INSTALL_PREFIX=/home/fallon/mmwave_ti_ros/ros_driver/install -G Unix Makefiles

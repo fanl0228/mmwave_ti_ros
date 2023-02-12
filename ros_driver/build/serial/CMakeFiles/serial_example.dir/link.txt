@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/serial_example.dir/examples/serial_example.cc.o  -o /home/fallon/mmwave_ti_ros/ros_driver/devel/lib/serial/serial_example -Wl,-rpath,/home/fallon/mmwave_ti_ros/ros_driver/devel/lib /home/fallon/mmwave_ti_ros/ros_driver/devel/lib/libserial.so -lrt -lpthread 

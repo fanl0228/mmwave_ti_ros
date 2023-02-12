@@ -50,8 +50,8 @@ echo "source <workspace_dir>/devel/setup.bash" >> ~/.bashrc
 
 5. Enable command and data ports on Linux:
 ```
-sudo chmod 666 /dev/ttyACM0
-sudo chmod 666 /dev/ttyACM1
+sudo chmod 666 /dev/ttyUSB０
+sudo chmod 666 /dev/ttyUSB１
 ```
 Note: If multiple sensors are used, enable additional ports `/dev/ttyACM2` and `/dev/ttyACM3`, etc. the same as this step.
 

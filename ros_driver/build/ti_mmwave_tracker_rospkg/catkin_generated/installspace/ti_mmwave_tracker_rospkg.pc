@@ -1,0 +1,8 @@
+prefix=/home/fallon/mmwave_ti_ros/ros_driver/install
+
+Name: ti_mmwave_tracker_rospkg
+Description: Description of ti_mmwave_tracker_rospkg
+Version: 3.3.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ltracker_mmwave
+Requires: nodelet roscpp serial std_msgs message_runtime

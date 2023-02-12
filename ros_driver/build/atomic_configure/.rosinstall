@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/fallon/mmwave_ti_ros/ros_driver/devel/setup.sh

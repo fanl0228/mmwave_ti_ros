@@ -1,0 +1,8 @@
+prefix=/home/fallon/mmwave_ti_ros/ros_driver/install
+
+Name: serial
+Description: Description of serial
+Version: 1.2.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lserial -lrt -lpthread
+Requires: 
